@@ -1,2 +1,2 @@
-# a-day-in-the-death
+# supreme
 Text Game!
